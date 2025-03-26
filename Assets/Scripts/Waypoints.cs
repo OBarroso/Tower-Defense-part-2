@@ -5,6 +5,7 @@ using UnityEngine;
 public class Waypoints : MonoBehaviour
 {
     public static Transform[] points;
+    //new method to make the AI move
 
     void Awake()
     {
